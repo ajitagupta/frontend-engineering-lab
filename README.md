@@ -2,17 +2,18 @@
 
 ![Frontend Engineering Lab — Engineering reliable user interfaces one concept at a time](assets/title.png)
 
-A focused frontend engineering lab where I develop the engineering skills
-behind modern web applications by implementing one frontend concept at a
-time — from scratch, by hand — and documenting the design decisions behind
-each implementation.
+A focused frontend engineering lab where I build a strong foundation in modern
+frontend development by implementing one core concept at a time — from scratch,
+by hand — and documenting what I learn along the way.
 
-Rather than chasing frameworks or frontend trends, this lab focuses on the
-engineering principles that make user interfaces reliable, maintainable,
-accessible, and easy to evolve.
+Rather than chasing frontend frameworks or trends, this lab focuses on the
+fundamental engineering concepts behind modern user interfaces, including
+components, state, routing, forms, API integration, and testing. These
+fundamentals provide the foundation for more advanced frontend engineering.
 
-Each concept lives in its own folder with runnable code, concise
-documentation, and notes explaining the trade-offs behind the solution.
+Each concept lives in its own folder with runnable code, concise documentation,
+and implementation notes explaining the underlying ideas and engineering
+principles.
 
 ---
 
