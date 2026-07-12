@@ -67,7 +67,7 @@ Follow the README inside each folder for setup instructions and learning notes.
 | 04 — Events & State | useState, lifting state, Context basics | ⬜ Planned | coming soon |
 | 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ⬜ Planned | coming soon |
 | 06 — Forms & Validation | Controlled inputs, validation, typed forms | ⬜ Planned | coming soon |
-| 07 — Data Fetching | Fetching data, loading states, error handling | ⬜ Planned | coming soon |
+| 07 — Data Fetching | Fetch API, async state, loading & errors | ⬜ Planned | coming soon |
 | 08 — Routing & Layouts | Navigation, nested layouts, routing | ⬜ Planned | coming soon |
 | 09 — Reusable UI Components | Buttons, cards, tables, dialogs | ⬜ Planned | coming soon |
 | 10 — Responsive Layouts | Flexbox, Grid, Tailwind, responsive design | ⬜ Planned | coming soon |
