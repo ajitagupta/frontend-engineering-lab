@@ -64,7 +64,7 @@ Follow the README inside each folder for setup instructions and learning notes.
 | 01 — TypeScript Fundamentals | Types, interfaces, utility types, generics | ⬜ Planned | coming soon |
 | 02 — Component Architecture | Building reusable UI components | ⬜ Planned | coming soon |
 | 03 — JSX & Rendering | Conditional rendering, lists, composition | ⬜ Planned | coming soon |
-| 04 — Events & State | Events, state, derived state | ⬜ Planned | coming soon |
+| 04 — Events & State | useState, lifting state, Context basics | ⬜ Planned | coming soon |
 | 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ⬜ Planned | coming soon |
 | 06 — Forms & Validation | Controlled inputs, validation, typed forms | ⬜ Planned | coming soon |
 | 07 — Data Fetching | Fetching data, loading states, error handling | ⬜ Planned | coming soon |
