@@ -4,7 +4,7 @@
 
 A focused frontend engineering lab where I build a strong foundation in modern
 frontend development by implementing one core concept at a time — from scratch,
-by hand — and documenting what I learn along the way.
+by hand — and documenting the engineering decisions behind each implementation.
 
 Rather than chasing frontend frameworks or trends, this lab focuses on the
 fundamental engineering concepts behind modern user interfaces, including
@@ -27,8 +27,7 @@ Lab.
 * Keep every example intentionally small and focused.
 * Document not only *what* works, but *why* it works.
 
-The goal is not to become a React expert overnight, but to become a better
-frontend engineer through deliberate practice.
+The goal is not to master a frontend framework overnight, but to build a solid understanding of the engineering principles behind modern frontend applications.
 
 ---
 
@@ -67,13 +66,13 @@ Follow the README inside each folder for setup instructions and learning notes.
 | 03 — JSX & Rendering | Conditional rendering, lists, composition | ⬜ Planned | coming soon |
 | 04 — Events & State | Events, state, derived state | ⬜ Planned | coming soon |
 | 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ⬜ Planned | coming soon |
-| 06 — Forms & Validation | React Hook Form, Zod, typed forms | ⬜ Planned | coming soon |
-| 07 — API Integration | Fetching data, async state, API boundaries | ⬜ Planned | coming soon |
+| 06 — Forms & Validation | Controlled inputs, validation, typed forms | ⬜ Planned | coming soon |
+| 07 — Data Fetching | Fetching data, loading states, error handling | ⬜ Planned | coming soon |
 | 08 — Routing & Layouts | Navigation, nested layouts, routing | ⬜ Planned | coming soon |
 | 09 — Reusable UI Components | Buttons, cards, tables, dialogs | ⬜ Planned | coming soon |
-| 10 — Styling | Tailwind, responsive layouts | ⬜ Planned | coming soon |
+| 10 — Responsive Layouts | Flexbox, Grid, Tailwind, responsive design | ⬜ Planned | coming soon |
 | 11 — Component Testing | React Testing Library + Vitest | ⬜ Planned | coming soon |
-| 12 — Playwright Fundamentals | First end-to-end tests | ⬜ Planned | coming soon |
+| 12 — End-to-End Testing | User journeys with Playwright | ⬜ Planned | coming soon |
 
 ---
 
@@ -110,7 +109,7 @@ By completing this lab, I aim to become comfortable with:
 * Consuming REST APIs
 * Structuring multi-page applications
 * Building responsive user interfaces
-* Testing components and basic end-to-end user flows
+* Testing components and complete user journeys
 
 The objective is to master the frontend fundamentals before moving on to
 advanced topics such as authentication, state management libraries,
