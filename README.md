@@ -58,22 +58,22 @@ Follow the README inside each folder for setup instructions and learning notes.
 ---
 
 # Roadmap
-
+ 
 | Concept | Skill | Status | Folder |
 |----------|-------|---------|--------|
-| 01 — TypeScript Fundamentals | Types, interfaces, utility types, generics | ⬜ Planned | coming soon |
-| 02 — Component Architecture | Building reusable UI components | ⬜ Planned | coming soon |
-| 03 — JSX & Rendering | Conditional rendering, lists, composition | ⬜ Planned | coming soon |
-| 04 — Events & State | useState, lifting state, Context basics | ⬜ Planned | coming soon |
-| 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ⬜ Planned | coming soon |
-| 06 — Forms & Validation | Controlled inputs, validation, typed forms | ⬜ Planned | coming soon |
-| 07 — Data Fetching | Fetch API, async state, loading & errors | ⬜ Planned | coming soon |
-| 08 — Routing & Layouts | Navigation, nested layouts, routing | ⬜ Planned | coming soon |
-| 09 — Reusable UI Components | Buttons, cards, tables, dialogs | ⬜ Planned | coming soon |
-| 10 — Responsive Layouts | Flexbox, Grid, Tailwind, responsive design | ⬜ Planned | coming soon |
-| 11 — Component Testing | React Testing Library + Vitest | ⬜ Planned | coming soon |
-| 12 — End-to-End Testing | User journeys with Playwright | ⬜ Planned | coming soon |
-
+| 01 — TypeScript Fundamentals | Types, interfaces, utility types, generics | ✅ Done | [01-typescript-fundamentals](01-typescript-fundamentals/) |
+| 02 — Component Architecture | Building reusable UI components | ⬜ Planned | _coming soon_ |
+| 03 — JSX & Rendering | Conditional rendering, lists, composition | ⬜ Planned | _coming soon_ |
+| 04 — Events & State | useState, lifting state, Context basics | ⬜ Planned | _coming soon_ |
+| 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ⬜ Planned | _coming soon_ |
+| 06 — Forms & Validation | Controlled inputs, validation, typed forms | ⬜ Planned | _coming soon_ |
+| 07 — Data Fetching | Fetch API, async state, loading & errors | ⬜ Planned | _coming soon_ |
+| 08 — Routing & Layouts | Navigation, nested layouts, routing | ⬜ Planned | _coming soon_ |
+| 09 — Reusable UI Components | Buttons, cards, tables, dialogs | ⬜ Planned | _coming soon_ |
+| 10 — Responsive Layouts | Flexbox, Grid, Tailwind, responsive design | ⬜ Planned | _coming soon_ |
+| 11 — Component Testing | React Testing Library + Vitest | ⬜ Planned | _coming soon_ |
+| 12 — End-to-End Testing | User journeys with Playwright | ⬜ Planned | _coming soon_ |
+ 
 ---
 
 ## Tech Stack
