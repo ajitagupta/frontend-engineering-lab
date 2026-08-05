@@ -62,7 +62,7 @@ Follow the README inside each folder for setup instructions and learning notes.
 | Concept | Skill | Status | Folder |
 |----------|-------|---------|--------|
 | 01 — TypeScript Fundamentals | Types, interfaces, utility types, generics | ✅ Done | [01-typescript-fundamentals](01-typescript-fundamentals/) |
-| 02 — Component Architecture | Building reusable UI components | ✅ Done  | [02-components-architecture](02-components-architecture/) |
+| 02 — Component Architecture | Building reusable UI components | ✅ Done  | [02-component-architecture](02-component-architecture/) |
 | 03 — JSX & Rendering | Conditional rendering, lists, composition | ⬜ Planned | _coming soon_ |
 | 04 — Events & State | useState, lifting state, Context basics | ⬜ Planned | _coming soon_ |
 | 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ⬜ Planned | _coming soon_ |
