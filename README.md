@@ -65,7 +65,7 @@ Follow the README inside each folder for setup instructions and learning notes.
 | 02 — Component Architecture | Building reusable UI components | ✅ Done  | [02-component-architecture](02-component-architecture/) |
 | 03 — JSX & Rendering | Conditional rendering, lists, composition | ✅ Done | [03-jsx-rendering](03-jsx-rendering/) |
 | 04 — Events & State | useState, lifting state, Context basics | ✅ Done | [04-events-state](04-events-state/) |
-| 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ✅ Done | [05-effects-browser-apis](05-effects-browser-apis/)] |
+| 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ✅ Done | [05-effects-browser-apis](05-effects-browser-apis/) |
 | 06 — Forms & Validation | Controlled inputs, validation, typed forms | ⬜ Planned | _coming soon_ |
 | 07 — Data Fetching | Fetch API, async state, loading & errors | ⬜ Planned | _coming soon_ |
 | 08 — Routing & Layouts | Navigation, nested layouts, routing | ⬜ Planned | _coming soon_ |
