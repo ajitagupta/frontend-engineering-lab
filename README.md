@@ -68,7 +68,7 @@ Follow the README inside each folder for setup instructions and learning notes.
 | 05 — Effects & Browser APIs | useEffect, browser APIs, synchronization | ✅ Done | [05-effects-browser-apis](05-effects-browser-apis/) |
 | 06 — Forms & Validation | Controlled inputs, validation, typed forms | ✅ Done | [06-forms-validation](06-forms-validation/) |
 | 07 — Data Fetching | Fetch API, async state, loading & errors | ✅ Done | [07-data-fetching](07-data-fetching/) |
-| 08 — Routing & Layouts | Navigation, nested layouts, routing | ⬜ Planned | _coming soon_ |
+| 08 — Routing & Layouts | Navigation, nested layouts, routing | ✅ Done | [08-routing-layouts](08-routing-layouts/) |
 | 09 — Reusable UI Components | Buttons, cards, tables, dialogs | ⬜ Planned | _coming soon_ |
 | 10 — Responsive Layouts | Flexbox, Grid, Tailwind, responsive design | ⬜ Planned | _coming soon_ |
 | 11 — Component Testing | React Testing Library + Vitest | ⬜ Planned | _coming soon_ |
