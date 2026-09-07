@@ -1,0 +1,33 @@
+.card-container {
+  display: flex;
+  flex-direction: row;  /* items stacked horizontally */
+  justify-content: space-around;
+  /*justify-content: space-between;*/
+  align-items: flex-start;
+  gap: 16px;
+  height: 300px;                  /* ← give it height */
+  border: 1px solid blue;      /* ← temporary, to SEE the container's bounds */
+}
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+@media (max-width: 600px) {
+  .card-container {
+    flex-direction: column;
+  }
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);   /* 3 equal columns */
+  gap: 16px;
+}
+
+@media (max-width: 600px) {
+  .grid-container {
+    grid-template-columns: 1fr;   /* one column on phones */
+  }
+}
