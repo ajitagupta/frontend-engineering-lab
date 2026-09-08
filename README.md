@@ -71,7 +71,7 @@ Follow the README inside each folder for setup instructions and learning notes.
 | 08 — Routing & Layouts | Navigation, nested layouts, routing | ✅ Done | [08-routing-layouts](08-routing-layouts/) |
 | 09 — Reusable UI Components | Buttons, cards | ✅ Done | [09-reusable-ui](09-reusable-ui/) |
 | 10 — Responsive Layouts | Flexbox, Grid, Tailwind, responsive design | ✅ Done | [10-responsive-layouts](10-responsive-layouts/) |
-| 11 — Component Testing | React Testing Library + Vitest | ⬜ Planned | _coming soon_ |
+| 11 — Component Testing | React Testing Library + Vitest | ✅ Done | [11-component-testing](11-component-testing/) |
 | 12 — End-to-End Testing | User journeys with Playwright | ⬜ Planned | _coming soon_ |
  
 ---
