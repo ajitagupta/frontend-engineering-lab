@@ -37,8 +37,6 @@ The diagram presents two related views:
 - **Application structure — left:** how the browser opens the application, navigation selects the correct page, reusable interface components display information, and state and data handling keep the screen up to date.
 - **Learning progression — right:** how the 12 concepts build on one another, from TypeScript foundations to complete browser-based tests.
 
-The colours connect each learning stage to the part of the finished application it supports. The [editable draw.io diagram](assets/architecture.drawio) can be opened in [diagrams.net](https://app.diagrams.net/).
-
 ## How I worked
 
 Each concept has its own folder with runnable code, setup instructions, and learning notes. Every stage builds on the knowledge developed before it.
